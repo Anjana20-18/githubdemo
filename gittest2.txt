@@ -1,1 +1,1 @@
-This is just an example to push the code in github platform
+This is just an example to push the code in github repository
